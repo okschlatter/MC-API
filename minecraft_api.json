@@ -1146,12 +1146,7 @@
                       ".", "Purpur Slab", ".",
                       ".", "PRS", "."
                   ]
-              }
-          ]
-      },
-      {
-          "title":"Building",
-          "items":[
+              },
               {
                   "item_name":"Redstone Torch",
                   "simple_table":[
@@ -1167,131 +1162,7 @@
               }
           ]
       },
-      {
-          "title":"Decoration",
-          "items":[
-              {
-                  "item_name":"Redstone Torch",
-                  "simple_table":[
-                      ".", ".", ".",
-                      ".", "R", ".",
-                      ".", "S", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      ".", "Redstone", ".",
-                      ".", "Stick", "."
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"Transportation",
-          "items":[
-              {
-                  "item_name":"Redstone Torch",
-                  "simple_table":[
-                      ".", ".", ".",
-                      ".", "R", ".",
-                      ".", "S", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      ".", "Redstone", ".",
-                      ".", "Stick", "."
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"Tools/Weapons/Armour",
-          "items":[
-              {
-                  "item_name":"Redstone Torch",
-                  "simple_table":[
-                      ".", ".", ".",
-                      ".", "R", ".",
-                      ".", "S", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      ".", "Redstone", ".",
-                      ".", "Stick", "."
-                  ]
-              }
-          ]
-      },
-      {
-          "title": "Transportation",
-          "items": [
-              {
-                  "item_name": "Rail",
-                  "simple_table": [
-                      "II",".","II",
-                      "II","ST","II",
-                      "II",".","II"
-                  ],
-                  "advanced_table": [
-                      "Iron Ingot",".","II",
-                      "II","Stick","II",
-                      "II",".","II"
-                  ]
-              },
-              {
-                  "item_name": "Powered Rail",
-                  "simple_table": [
-                      "GI",".","GI",
-                      "GI","ST","GI",
-                      "GI","RD","GI"
-                  ],
-                  "advanced_table": [
-                      "Gold Ingot",".","GI",
-                      "GI","Stick","GI",
-                      "GI","Redstone dust","GI"
-                  ]
-              },
-              {
-                  "item_name": "Activator Rail",
-                  "simple_table": [
-                      "II","ST","II",
-                      "II","RT","II",
-                      "II","ST","II"
-                  ],
-                  "advanced_table": [
-                      "Iron Ingot","Stick","II",
-                      "II","Redstone torch","II",
-                      "II","ST","II"
-                  ]
-              },
-              {
-                  "item_name": "Detector Rail",
-                  "simple_table": [
-                      "II",".","II",
-                      "II","SPP","II",
-                      "II","RD","II"
-                  ],
-                  "advanced_table": [
-                      "Iron Ingot",".","II",
-                      "II","Stone Pressure Plate","II",
-                      "II","Redstone Dust","II"
-                  ]
-              },
-              {
-                  "item_name": "Ladder",
-                  "simple_table": [
-                      "ST",".","ST",
-                      "ST","ST","ST",
-                      "ST",".","ST"
-                  ],
-                  "advanced_table": [
-                      "Stick",".","ST",
-                      "ST","ST","ST",
-                      "ST",".","ST"
-                  ]
-              }
-          ]
-      },
-      {
+            {
           "title": "Decoration",
           "items": [
               {
@@ -1492,8 +1363,104 @@
           ]
       },
       {
+          "title": "Transportation",
+          "items": [
+              {
+                  "item_name": "Rail",
+                  "simple_table": [
+                      "II",".","II",
+                      "II","ST","II",
+                      "II",".","II"
+                  ],
+                  "advanced_table": [
+                      "Iron Ingot",".","II",
+                      "II","Stick","II",
+                      "II",".","II"
+                  ]
+              },
+              {
+                  "item_name": "Powered Rail",
+                  "simple_table": [
+                      "GI",".","GI",
+                      "GI","ST","GI",
+                      "GI","RD","GI"
+                  ],
+                  "advanced_table": [
+                      "Gold Ingot",".","GI",
+                      "GI","Stick","GI",
+                      "GI","Redstone dust","GI"
+                  ]
+              },
+              {
+                  "item_name": "Activator Rail",
+                  "simple_table": [
+                      "II","ST","II",
+                      "II","RT","II",
+                      "II","ST","II"
+                  ],
+                  "advanced_table": [
+                      "Iron Ingot","Stick","II",
+                      "II","Redstone torch","II",
+                      "II","ST","II"
+                  ]
+              },
+              {
+                  "item_name": "Detector Rail",
+                  "simple_table": [
+                      "II",".","II",
+                      "II","SPP","II",
+                      "II","RD","II"
+                  ],
+                  "advanced_table": [
+                      "Iron Ingot",".","II",
+                      "II","Stone Pressure Plate","II",
+                      "II","Redstone Dust","II"
+                  ]
+              },
+              {
+                  "item_name": "Ladder",
+                  "simple_table": [
+                      "ST",".","ST",
+                      "ST","ST","ST",
+                      "ST",".","ST"
+                  ],
+                  "advanced_table": [
+                      "Stick",".","ST",
+                      "ST","ST","ST",
+                      "ST",".","ST"
+                  ]
+              },
+              {
+                  "item_name":"Redstone Torch",
+                  "simple_table":[
+                      ".", ".", ".",
+                      ".", "R", ".",
+                      ".", "S", "."
+                  ],
+                  "advanced_table":[
+                      ".", ".", ".",
+                      ".", "Redstone", ".",
+                      ".", "Stick", "."
+                  ]
+              }
+          ]
+      },
+      {
           "title":"Tools/Weapons/Armour",
           "items":[
+              {
+                  "item_name":"Redstone Torch",
+                  "simple_table":[
+                      ".", ".", ".",
+                      ".", "R", ".",
+                      ".", "S", "."
+                  ],
+                  "advanced_table":[
+                      ".", ".", ".",
+                      ".", "Redstone", ".",
+                      ".", "Stick", "."
+                  ]
+              },
               {
                   "item_name":"Clock",
                   "simple_table":[
@@ -1582,7 +1549,7 @@
 
                   ]
               }
-  ]
-  }
+          ]
+      }
   ]
 }
