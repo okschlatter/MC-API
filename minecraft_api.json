@@ -7,12 +7,12 @@
                 "item_name":"Redstone Torch",
                 "simple_table":[
                     ".", ".", ".",
-                    ".", "Rd", ".",
-                    ".", "St", "."
+                    ".", "RD", ".",
+                    ".", "ST", "."
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    ".", "Redstone dust", ".",
+                    ".", "Redstone Dust", ".",
                     ".", "Stick", "."
                 ]
             },
@@ -20,26 +20,26 @@
                 "item_name":"Repeater",
                 "simple_table":[
                     ".", ".", ".",
-                    "Rt", "Rd", "Rt",
+                    "RT", "RD", "RT",
                     "S", "S", "S"
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    "Redstone torch", "Redstone dust", "Rt",
-                    "Smooth stone", "S", "S"
+                    "Redstone Torch", "Redstone Dust", "RT",
+                    "Smooth Stone", "S", "S"
                 ]
             },
             {
-                "item_name":"Redstone block",
+                "item_name":"Redstone Block",
                 "simple_table":[
-                    "Rd", "Rd", "Rd",
-                    "Rd", "Rd", "Rd",
-                    "Rd", "Rd", "Rd"
+                    "RD", "RD", "RD",
+                    "RD", "RD", "RD",
+                    "RD", "RD", "RD"
                 ],
                 "advanced_table":[
-                    "Redstone dust", "Rd", "Rd",
-                    "Rd", "Rd", "Rd",
-                    "Rd", "Rd", "Rd"
+                    "Redstone Dust", "RD", "RD",
+                    "RD", "RD", "RD",
+                    "RD", "RD", "RD"
                 ]
             },
             {
@@ -56,7 +56,7 @@
                 ]
             },
             {
-                "item_name":"Iron door",
+                "item_name":"Iron Door",
                 "simple_table":[
                     ".", "II", "II",
                     ".", "II", "II",
@@ -95,14 +95,14 @@
                 ]
             },
             {
-                "item_name":"Note block",
+                "item_name":"Note Block",
                 "simple_table":[
                     "WP", "WP", "WP",
-                    "WP", "Rd", "WP",
+                    "WP", "RD", "WP",
                     "WP", "WP", "WP"
                 ],
                 "advanced_table":[
-                    "Wood plank", "WP", "WP",
+                    "Wood Plank", "WP", "WP",
                     "WP", "Redstone Dust", "WP",
                     "WP", "WP", "WP"
                 ]
@@ -116,7 +116,7 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    "Wood planks", "WP", "WP",
+                    "Wood Planks", "WP", "WP",
                     "WP", "WP", "WP"
                 ]
             },
@@ -156,7 +156,7 @@
                 "advanced_table":[
                     "Glass", "GS", "GS",
                     "Quartz", "Q", "Q",
-                    "Wood slab", "WS", "WS"
+                    "Wood Slab", "WS", "WS"
                 ]
             },
             {
@@ -191,13 +191,13 @@
                 "item_name":"Dropper",
                 "simple_table":[
                     "CBL", "CBL", "CBL",
-                    "CBL", "Rs", "CBL",
+                    "CBL", "RD", "CBL",
                     "CBL", "CBL", "CBL"
 
                 ],
                 "advanced_table":[
                     "Cobblestone", "CBL", "CBL",
-                    "CBL", "Redstone dust", "CBL",
+                    "CBL", "Redstone Dust", "CBL",
                     "CBL", "CBL", "CBL"
 
                 ]
@@ -205,14 +205,14 @@
             {
                 "item_name":"Redstone Comparator",
                 "simple_table":[
-                    ".", "Rt", ".",
-                    "Rt", "Q", "Rt",
+                    ".", "RT", ".",
+                    "RT", "Q", "RT",
                     "S", "S", "S"
 
                 ],
                 "advanced_table":[
-                    ".", "Redstone torch", ".",
-                    "Rt", "Quartz", "Rt",
+                    ".", "Redstone Torch", ".",
+                    "RT", "Quartz", "RT",
                     "Smooth Stone", "S", "S"
 
                 ]
@@ -227,13 +227,13 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    ".", "Smooth stone", ".",
+                    ".", "Smooth Stone", ".",
                     ".", ".", "."
 
                 ]
             },
             {
-                "item_name":"Wood button",
+                "item_name":"Wood Button",
                 "simple_table":[
                     ".", ".", ".",
                     ".", "WP", ".",
@@ -242,13 +242,13 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    ".", "Wood planks", ".",
+                    ".", "Wood Planks", ".",
                     ".", ".", "."
 
                 ]
             },
             {
-                "item_name":"Stone pressure plate",
+                "item_name":"Stone Pressure Plate",
                 "simple_table":[
                     ".", ".", ".",
                     "S", "S", ".",
@@ -257,13 +257,13 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    "Smooth stone", "Smooth stone", ".",
+                    "Smooth Stone", "S", ".",
                     ".", ".", "."
 
                 ]
             },
             {
-                "item_name":"Wooden pressure plate",
+                "item_name":"Wooden Pressure Plate",
                 "simple_table":[
                     ".", ".", ".",
                     "WP", "WP", ".",
@@ -272,13 +272,13 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    "Wooden plank", "WP", ".",
+                    "Wood Plank", "WP", ".",
                     ".", ".", "."
 
                 ]
             },
             {
-                "item_name":"Sticky piston",
+                "item_name":"Sticky Piston",
                 "simple_table":[
                     ".", ".", ".",
                     ".", "SLB", ".",
@@ -287,23 +287,23 @@
                 ],
                 "advanced_table":[
                     ".", ".", ".",
-                    ".", "Slime balls", ".",
+                    ".", "Slime Balls", ".",
                     ".", "Piston", "."
 
                 ]
             },
             {
-                "item_name":"Tripwire hook",
+                "item_name":"Tripwire Hook",
                 "simple_table":[
                     ".", "II", ".",
-                    ".", "St", ".",
+                    ".", "ST", ".",
                     ".", "WP", "."
 
                 ],
                 "advanced_table":[
                     ".", "Iron Ingot", ".",
                     ".", "Stick", ".",
-                    ".", "Wood plank", "."
+                    ".", "Wood Plank", "."
 
                 ]
             },
@@ -312,28 +312,28 @@
                 "simple_table":[
                     "CBL", "CBL", "CBL",
                     "CBL", "BOW", "CBL",
-                    "CBL", "Rd", "CBL"
+                    "CBL", "RD", "CBL"
 
                 ],
                 "advanced_table":[
                     "Cobblestone", "CBL", "CBL",
                     "CBL", "Bow", "CBL",
-                    "CBL", "Redstone dust", "CBL"
+                    "CBL", "Redstone Dust", "CBL"
 
                 ]
             },
             {
                 "item_name":"Redstone lamp",
                 "simple_table":[
-                    ".", "Rd", ".",
-                    "Rd", "GSB", "Rd",
-                    ".", "Rd", "."
+                    ".", "RD", ".",
+                    "RD", "GSB", "RD",
+                    ".", "RD", "."
 
                 ],
                 "advanced_table":[
-                    ".", "Redstone dust", ".",
-                    "Rd", "Glowstone block", "Rd",
-                    ".", "Rd", "."
+                    ".", "Redstone Dust", ".",
+                    "RD", "Glowstone Block", "RD",
+                    ".", "RD", "."
 
                 ]
             },
@@ -341,7 +341,7 @@
                 "item_name":"Lever",
                 "simple_table":[
                     ".", ".", ".",
-                    ".", "St", ".",
+                    ".", "ST", ".",
                     ".", "CBL", "."
 
                 ],
@@ -392,7 +392,7 @@
                   ],
                   "advanced_table":[
                       ".", ".", ".",
-                      "Wheat", "Wheat", "Wheat",
+                      "Wheat", "WHT", "WHT",
                       ".", ".", "."
                   ]
               },
@@ -530,8 +530,8 @@
                   ],
                   "advanced_table":[
                       ".", ".", ".",
-                      "Blaze powder", "Coal", ".",
-                      ".", "Gun powder", "."
+                      "Blaze Powder", "Coal", ".",
+                      ".", "Gun Powder", "."
 
                   ]
               },
@@ -545,7 +545,7 @@
                     ],
                     "advanced_table":[
                         ".", ".", ".",
-                        "Book", "Ink sac", ".",
+                        "Book", "Ink Sac", ".",
                         ".", "Feather", "."
 
                     ]
@@ -575,7 +575,7 @@
                     ],
                     "advanced_table":[
                         "Glass", "GS", "GS",
-                        "GS", "Nether star", "GS",
+                        "GS", "Nether Star", "GS",
                         "OBS", "OBS", "Obsidian"
 
                     ]
@@ -590,7 +590,7 @@
                     ],
                     "advanced_table":[
                         ".", ".", ".",
-                        "Blaze powder", "Ender pearl", ".",
+                        "Blaze Powder", "Ender Pearl", ".",
                         ".", ".", "."
 
                     ]
@@ -631,7 +631,7 @@
                   "item_name":"Block of Coal",
                   "simple_table":[
                       "COL", "COL", "COL",
-                      "COL", "CBL", "COL",
+                      "COL", "COL", "COL",
                       "COL", "COL", "COL"
                   ],
                   "advanced_table":[
@@ -914,7 +914,7 @@
                   ]
               },
               {
-                  "item_name":"Granite",
+                  "item_name":"Polished Granite",
                   "simple_table":[
                       ".", ".", ".",
                       "GNT", "GNT", ".",
@@ -1013,73 +1013,8 @@
                   ],
                   "advanced_table":[
                       ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
+                      "String", "STR", ".",
                       "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
-                      "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
-                      "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
-                      "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
-                      "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
                   ]
               },
               {
@@ -1093,19 +1028,6 @@
                       ".", ".", ".",
                       "Any Color Dye", "Wool", ".",
                       ".", ".", "."
-                  ]
-              },
-              {
-                  "item_name":"White Wool",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "STR", "STR", ".",
-                      "STR", "STR", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Prismarine Shard", "PAS", ".",
-                      "PAS", "PAS", "."
                   ]
               },
               {
@@ -1147,19 +1069,6 @@
                       ".", "PRS", "."
                   ]
               },
-              {
-                  "item_name":"Redstone Torch",
-                  "simple_table":[
-                      ".", ".", ".",
-                      ".", "R", ".",
-                      ".", "S", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      ".", "Redstone", ".",
-                      ".", "Stick", "."
-                  ]
-              }
           ]
       },
             {
@@ -1192,7 +1101,7 @@
                   ]
               },
               {
-                  "item_name": "Glass",
+                  "item_name": "Glass Panes",
                   "simple_table": [
                       ".",".",".",
                       "GS","GS","GS",
@@ -1388,7 +1297,7 @@
                   "advanced_table": [
                       "Gold Ingot",".","GI",
                       "GI","Stick","GI",
-                      "GI","Redstone dust","GI"
+                      "GI","Redstone Dust","GI"
                   ]
               },
               {
@@ -1400,7 +1309,7 @@
                   ],
                   "advanced_table": [
                       "Iron Ingot","Stick","II",
-                      "II","Redstone torch","II",
+                      "II","Redstone Torch","II",
                       "II","ST","II"
                   ]
               },
@@ -1453,7 +1362,7 @@
                   "simple_table":[
                       ".", ".", ".",
                       ".", "R", ".",
-                      ".", "S", "."
+                      ".", "ST", "."
                   ],
                   "advanced_table":[
                       ".", ".", ".",
@@ -1465,12 +1374,12 @@
                   "item_name":"Clock",
                   "simple_table":[
                       ".", "GI", ".",
-                      "GI", "Rd", "GI",
+                      "GI", "RD", "GI",
                       ".", "GI", "."
                   ],
                   "advanced_table":[
                       ".", "GI", ".",
-                      "GI", "Redstone dust", "Gold ingot",
+                      "GI", "Redstone Dust", "Gold Ingot",
                       ".", "GI", "."
                   ]
               },
@@ -1478,59 +1387,59 @@
                   "item_name":"Compass",
                   "simple_table":[
                       ".", "II", ".",
-                      "II", "Rd", "II",
+                      "II", "RD", "II",
                       ".", "II", "."
 
                   ],
                   "advanced_table":[
                       ".", "Iron Ingot", ".",
-                      "II", "Rd", "II",
+                      "II", "RD", "II",
                       ".", "II", "."
 
                   ]
               },
               {
-                  "item_name":"Fishing rod",
+                  "item_name":"Fishing Rod",
                   "simple_table":[
-                      ".", ".", "St",
-                      ".", "St", "Sg",
-                      "St", ".", "Sg"
+                      ".", ".", "ST",
+                      ".", "ST", "STR",
+                      "ST", ".", "STR"
 
                   ],
                   "advanced_table":[
-                      ".", ".", "String",
-                      ".", "St", "Sg",
-                      "Stick", ".", "Sg"
+                      ".", ".", "Stick",
+                      ".", "ST", "String",
+                      "ST", ".", "STR"
 
                   ]
               },
               {
                   "item_name":"Lead",
                   "simple_table":[
-                      "Sg", "Sg", ".",
-                      "Sg", "SLB", ".",
-                      ".", ".", "Sg"
+                      "STR", "STR", ".",
+                      "STR", "SLB", ".",
+                      ".", ".", "STR"
 
                   ],
                   "advanced_table":[
-                      "String", "String", ".",
-                      "String", "Slimeball", ".",
-                      ".", ".", "String"
+                      "String", "STR", ".",
+                      "STR", "Slimeball", ".",
+                      ".", ".", "STR"
 
                   ]
               },
               {
                   "item_name":"Bow",
                   "simple_table":[
-                      ".", "St", "Sg",
-                      "St", ".", "Sg",
-                      ".", "St", "Sg"
+                      ".", "ST", "STR",
+                      "ST", ".", "STR",
+                      ".", "ST", "STR"
 
                   ],
                   "advanced_table":[
                       ".", "Stick", "String",
-                      "St", ".", "Sg",
-                      ".", "St", "Sg"
+                      "ST", ".", "STR",
+                      ".", "ST", "STR"
 
                   ]
               },
@@ -1538,7 +1447,7 @@
                   "item_name":"Arrow",
                   "simple_table":[
                       ".", "FLT", ".",
-                      ".", "St", ".",
+                      ".", "ST", ".",
                       ".", "FEA", "."
 
                   ],
