@@ -1029,45 +1029,6 @@
                       "Any Color Dye", "Wool", ".",
                       ".", ".", "."
                   ]
-              },
-              {
-                  "item_name":"(1.9) End Stone Bricks",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "END", "END", ".",
-                      "END", "END", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "End Stone", "END", ".",
-                      "END", "END", "."
-                  ]
-              },
-              {
-                  "item_name":"(1.9) Purpur Block",
-                  "simple_table":[
-                      ".", ".", ".",
-                      "PCF", "PCF", ".",
-                      "PCF", "PCF", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      "Popped Chorus Fruit", "PCF", ".",
-                      "PCF", "PCF", "."
-                  ]
-              },
-              {
-                  "item_name":"(1.9) Purpur Pillar",
-                  "simple_table":[
-                      ".", ".", ".",
-                      ".", "PRS", ".",
-                      ".", "PRS", "."
-                  ],
-                  "advanced_table":[
-                      ".", ".", ".",
-                      ".", "Purpur Slab", ".",
-                      ".", "PRS", "."
-                  ]
               }
           ]
       },
@@ -1459,6 +1420,115 @@
                   ]
               }
           ]
-      }
+      },
+      {
+        "title": "Snapshot",
+        "items":[
+          {
+            "item_name":"Purpur Block",
+            "simple_table":[
+              "PCF", "PCF", ".",
+              "PCF", "PCF", ".",
+              ".", ".", "."
+              ],
+              "advanced_tabel":[
+                "Popped Chorus Fruit", "PCF", ".",
+                "PCF", "PCF", ".",
+                ".", ".", "."
+                ]
+          },
+          {
+            "item_name":"Purpur Stairs",
+            "simple_table":[
+              ".", ".", "PPB",
+              ".", "PPB", "PPB",
+              "PPB", "PPB", "PPB"
+              ],
+              "advanced_table":[
+                ".", ".", "Purpur Block",
+                ".", "PPB", "PPB",
+                "PPB", "PPB", "PPB"
+                ]
+          },
+          {
+            "item_name":"Purpur Slab",
+            "simple_table":[
+              ".", ".", ".",
+              "PPB", "PPB", "PPB",
+              ".", ".", "."
+              ],
+              "advanced_table":[
+                ".", ".", ".",
+                "Purpur Block", "PPB", "PPB",
+                ".", ".", "."
+                ]
+          },
+          {
+            "item_name":"Purpur Pillar",
+            "simple_table":[
+              ".", ".", ".",
+              ".", "PPS", ".",
+              ".", "PPS", "."
+              ],
+              "advanced_table":[
+                ".", ".", ".",
+                ".", "Purpur Slab", ".",
+                ".", "PPS", "."
+                ]
+          },
+          {
+            "item_name":"Spectral Arrow",
+            "simple_table":[
+              ".", "GSD", ".",
+              "GSD", "ARO", "GSD",
+              ".", "GSD", "."
+              ],
+              "advanced_table":[
+                ".", "Glowstone Dust", ".",
+                "GSD", "Arrow", "GSD",
+                ".", "GSD", "."
+                ]
+          },
+          {
+            "item_name":"Endstone Bricks",
+            "simple_table":[
+              "ES", "ES", ".",
+              "ES", "ES", ".",
+              ".", ".", "."
+              ],
+              "advanced_table":[
+                "Endstone", "ES", ".",
+                "ES", "ES", ".",
+                ".", ".", "."
+                ]
+          },
+          {
+            "item_name":"End Crystal",
+            "simple_table":[
+              "GS", "GS", "GS",
+              "GS", "EOE", "GS",
+              "GS", "GT", "GS"
+              ],
+              "advanced_table":[
+                "Glass", "GS", "GS",
+                "GS", "Eye of Ender", "GS",
+                "GS", "Ghast Tear", "GS"
+                ]
+          },
+          {
+            "item_name":"Blaze Rod",
+            "simple_table":[
+              ".", "BRD", ".",
+              ".", "PCF", ".",
+              ".", ".", "."
+              ],
+              "advanced_table":[
+                ".", "Blaze Rod", ".",
+                ".", "Popped Chorus Fruit", ".",
+                ".", ".", "."
+                ]
+          }
+          ]
+    }
   ]
 }
